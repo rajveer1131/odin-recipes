@@ -1,0 +1,36 @@
+body{
+    background-image: image("recipes/recipe_images/bg.webp");
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    
+}
+h2{
+    font-size: 40px;
+}
+p,div ul,div ol{
+    font-size: 20px;
+}
+  .home-center {
+    text-align: center;
+}
+.home-center li{
+    list-style: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.home-center a{
+    text-decoration: none;
+}
+
+img{
+    border-radius: 13%;
+    width:30%;
+    height: auto;
+    text-align: center;
+
+}
+
